@@ -35,7 +35,11 @@ markdown: kramdown
 #remote_theme: raviriley/agency-jekyll-theme
 plugins:
   - jekyll-feed
+<<<<<<< HEAD
 #theme: jekyll-theme-cayman
+=======
+theme: jekyll-theme-minimal
+>>>>>>> 4a640cbabd259845e0753c67193dd362892f3205
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
