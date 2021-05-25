@@ -8,4 +8,4 @@ Welcom to MyMuesli.
 
 This is an example of what we can make for you:
 
-![a muesli image](/amuesli.jpg)
+![a muesli image](/assets/amuesli.jpg)
